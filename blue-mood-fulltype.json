@@ -1,0 +1,45 @@
+{
+    "colors": {
+        "r": 245,
+        "g": 245,
+        "b": 245,
+        "black": "#000000",
+        "light_black": "#104e8b",
+        "grey": "#b8b8b8",
+        "red": "#ff0000",
+        "green": "#7fff00",
+        "yellow": "#ffd700",
+        "blue": "#235c94",
+        "magenta": "#f5deb3",
+        "cyan": "#4f94cd",
+        "white": "#f5f5f5",
+        "brightBlack": "#686868",
+        "brightRed": "#ff6347",
+        "brightGreen": "#7fff00",
+        "brightYellow": "#ffff00",
+        "brightBlue": "#00cdcd",
+        "brightMagenta": "#f5deb3",
+        "brightCyan": "#00ffff",
+        "brightWhite": "#f5f5f5"
+    },
+    "cssvars": {
+        "font_main": "United Sans Medium",
+        "font_main_light": "United Sans Light"
+    },
+    "terminal": {
+        "fontFamily": "Fira Mono",
+        "cursorStyle": "block",
+        "foreground": "#f5f5f5",
+        "background": "#104e8b",
+        "cursor": "#daa520",
+        "cursorAccent": "#daa520",
+        "selection": "rgba(170,207,209,0.3)"
+    },
+    "globe": {
+        "base": "#000000",
+        "marker": "#aacfd1",
+        "pin": "#aacfd1",
+        "satellite": "#aacfd1"
+    },
+    "injectCSS": "section#keyboard{width: 100vw;} div.keyboard_key{margin: 0vh 0.8vh;} div.keyboard_key#keyboard_spacebar{width: 53.5vh;min-width: 53.5vh;} section#filesystem{display:none;}"
+}
