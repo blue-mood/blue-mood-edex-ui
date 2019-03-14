@@ -1,6 +1,6 @@
 # Blue Mood for eDEX UI
 
-An implementation of [emacs's Blue Mood theme's](https://emacsthemes.com/themes/blue-mood-theme.html) colors for eDEX UI.
+An implementation of [emacs's Blue Mood theme's](https://emacsthemes.com/themes/blue-mood-theme.html) colors for [eDEX UI](https://github.com/GitSquared/edex-ui).
 
 # Screenshots
 
