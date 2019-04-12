@@ -6,17 +6,17 @@ An implementation of [emacs's Blue Mood theme's](https://emacsthemes.com/themes/
 
 ### Regular Blue Mood
 
-![Screenshot](blue-mood-edex-screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/blue-mood-edex-screenshot.png)
 
 ### Blue Mood fulltype
 (keyboard occupies entire bottom half of screen)
 
-![Fulltype Screenshot](blue-mood-fulltype-edex-screenshot.png)
+![Fulltype Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/blue-mood-fulltype-edex-screenshot.png)
 
 ### Blue Mood notype
 (keyboard is hidden, file pane occupies entire bottom half of screen)
 
-![Notype Screenshot](blue-mood-notype-edex-screenshot.png)
+![Notype Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/blue-mood-notype-edex-screenshot.png)
 
 # Installation
 
